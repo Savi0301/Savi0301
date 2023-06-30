@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **MS in Information Systems**
 
-- 👨‍💻 All of my projects are available at [https://savi0301.github.io/portfolio/](https://savi0301.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Savi0301?tab=repositories](https://github.com/Savi0301?tab=repositories)
 
 - 📫 How to reach me **snavalg1@umbc.edu**
 
