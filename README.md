@@ -1,4 +1,4 @@
-# 💻 Savita Navalgi's Data Analytics Portfolio 
+# 💻 Savita Navalgi
 
  Welcome to my GitHub portfolio! I am a **Data Analyst** with over 4 years of experience in **financial services** and **technology** sectors. My expertise spans across data manipulation, feature engineering, and exploratory data analysis using tools like **Python**, **SQL**, and **R**. I have a Master's degree in **Information Systems** and a proven track record of managing end-to-end data analytics projects that drive business growth and competitive advantage.
 
